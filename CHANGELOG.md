@@ -1,5 +1,24 @@
 # Changelog
 
+## 2.0.2 (2023-03-04)
+
+
+### Features
+
+* block bots based on ua ([4e431ba](https://github.com/exploit-rs/bin/commit/4e431bac94717d94b39989391bf0b544a3bc90c7))
+* init ([822ba28](https://github.com/exploit-rs/bin/commit/822ba28829855acb01d5b248dd3aba1ae5081bcc))
+
+
+### Bug Fixes
+
+* style tweak ([37c52bd](https://github.com/exploit-rs/bin/commit/37c52bd5b17f8e61bddcc72efc6bc8d4eb338726))
+* urlencode/decode password ([#4](https://github.com/exploit-rs/bin/issues/4)) ([8acb6ec](https://github.com/exploit-rs/bin/commit/8acb6ec06e8dbb35ec4f0a239535a8c0d32b680d))
+
+
+### Miscellaneous Chores
+
+* release 2.0.2 ([26adb25](https://github.com/exploit-rs/bin/commit/26adb2506d250b625bf96d8f71e26e771fb82db4))
+
 ## [2.1.1](https://github.com/pasteburn/pasteburn/compare/v2.1.0...v2.1.1) (2022-11-12)
 
 
